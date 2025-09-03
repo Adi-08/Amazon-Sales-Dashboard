@@ -31,4 +31,23 @@ It demonstrates my learnings from the *Career Essentials in Data Analysis* cours
 ## 📄 Dashboard Preview
 👉 [View Dashboard (PDF)](Amazon%20Sales%20Data%20Visuals.pdf)
 
-## 📂 Repository Structure
+## 📌 Key Insights from the Dashboard
+
+🔹 **Product Mix**  
+- Majority of products are concentrated around certain **cable types**, showing market preference.  
+
+⭐ **Customer Satisfaction**  
+- Most products have ratings **above 4.0**, indicating strong customer approval.  
+
+💰 **Pricing Strategy**  
+- Clear difference between **premium vs. budget products** when comparing actual prices.  
+
+🎯 **Discount Impact**  
+- Some products have discounts of nearly **50% or more**, showing heavy promotion strategy.  
+
+📊 **Business Value**  
+- Together, these insights help in:  
+  - Optimizing **pricing & discount strategy**  
+  - Identifying **high-quality vs. low-rated products**  
+  - Understanding **customer preference by product type**  
+
